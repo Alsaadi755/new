@@ -1,0 +1,24 @@
+name: getx_state_managemnet
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.5.1
+  flutter: 
+    sdk: flutter
+  carousel_slider: ^4.0.0
+  smooth_page_indicator: ^1.0.0+2
+  http: ^0.13.4
+
+dev_dependencies: 
+  flutter_lints: ^1.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
